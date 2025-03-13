@@ -1,4 +1,3 @@
-
 <!-- Rainbow Header Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=34F6D4&center=true&vCenter=true&width=435&lines=Hey+There+👋;I'm+Enock+Bett;Full+Stack+Developer;Python+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
@@ -12,24 +11,25 @@
 <!-- About Section with Floating Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" align="right">
-  
-  ```python
-  class Developer:
-      def __init__(self):
-          self.name = "Enock Bett"
-          self.role = "Backend Developer & API Architect"
-          self.passion = "Building scalable solutions"
-          self.tech_stack = {
-              'languages': ['Python', 'JavaScript'],
-              'backend': ['Flask', 'FastAPI', 'Django'],
-              'frontend': ['HTML5', 'CSS3', 'Bootstrap'],
-              'tools': ['Git', 'Docker', 'PostgreSQL']
-          }
-  
-      def motto(self):
-          return "Turning caffeine into code since 2020"
-  
-  me = Developer()
+</p>
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Enock Bett"
+        self.role = "Backend Developer & API Architect"
+        self.passion = "Building scalable solutions"
+        self.tech_stack = {
+            'languages': ['Python', 'JavaScript'],
+            'backend': ['Flask', 'FastAPI', 'Django'],
+            'frontend': ['HTML5', 'CSS3', 'Bootstrap'],
+            'tools': ['Git', 'Docker', 'PostgreSQL']
+        }
+
+    def motto(self):
+        return "Turning caffeine into code since 2020"
+
+me = Developer()
 
 <!-- Tech Stack Section with Animated Badges -->
 <h2 align="center">⚡ Tech Stack ⚡</h2>
