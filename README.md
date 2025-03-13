@@ -21,13 +21,13 @@ class Developer:
         self.passion = "Building scalable solutions"
         self.tech_stack = {
             'languages': ['Python', 'JavaScript'],
-            'backend': ['Flask', 'FastAPI', 'Django'],
+            'backend': ['Flask', 'FastAPI'],
             'frontend': ['HTML5', 'CSS3', 'Bootstrap'],
             'tools': ['Git', 'Docker', 'PostgreSQL']
         }
 
     def motto(self):
-        return "Turning caffeine into code since 2020"
+        return "Turning caffeine into code since 2024"
 
 me = Developer()
 ```
@@ -63,7 +63,7 @@ me = Developer()
   </a>
 </div>
 
-<!-- Fixed Snake Animation -->
+<!-- Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CaptainBett/CaptainBett/main/github-contribution-grid-snake.svg" style="width: 100%;" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/CaptainBett/CaptainBett/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
 </div>
