@@ -63,7 +63,3 @@ me = Developer()
   </a>
 </div>
 
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CaptainBett/CaptainBett/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
-</div>
