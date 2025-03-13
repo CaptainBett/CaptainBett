@@ -31,74 +31,99 @@ class Developer:
 
 me = Developer()
 ```
-<!-- Tech Stack Section with Animated Badges -->
-<h2 align="center">⚡ Tech Stack ⚡</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FFD43B&labelColor=306998" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<!-- Tech Stack Section -->
+<h2 style="text-align: center;">⚡ Tech Stack ⚡</h2>
+<div style="text-align: center;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FFD43B&labelColor=306998" alt="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
 
-<!-- GitHub Stats with Glowing Animation -->
-<h2 align="center">📈 GitHub Stats 📉</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaptainBett&show_icons=true&theme=radical&border_color=34F6D4&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaptainBett&theme=radical&border=34F6D4" width="48%" />
+<!-- Skills Matrix Section -->
+<h2 style="text-align: center;">🚀 Skills Dashboard 🚀</h2>
+<div style="text-align: center;">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,git,docker,postgres,html,css,bootstrap,github" alt="Skills" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptainBett&theme=react-dark&bg_color=0D1117&color=34F6D4&line=34F6D4&point=FFFFFF" width="90%">
+<!-- GitHub Trophies Section -->
+<h2 style="text-align: center;">🏆 GitHub Achievements 🏆</h2>
+<div style="text-align: center;">
+  <img src="https://github-profile-trophy.vercel.app/?username=CaptainBett&theme=onedark&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 <!-- Featured Projects Section -->
-<h2 align="center">🚀 Featured Projects 🚀</h2>
-<div align="center">
-  <table>
+<h2 style="text-align: center;">🔥 Featured Projects 🔥</h2>
+<div style="text-align: center;">
+  <table style="margin: 0 auto;">
     <tr>
-      <td width="50%">
-        <h3 align="center">TabPay</h3>
-        <div align="center">
-          <a href="https://github.com/Africode-Academy/tabpay">
-            <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="80%">
+      <td style="width: 50%;">
+        <h3 style="text-align: center;">TabPay API</h3>
+        <div style="text-align: center;">
+          <a href="https://github.com/CaptainBett/Tabpay_API">
+            <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" style="width: 80%;" alt="TabPay GIF" />
           </a>
           <br>
-          <img src="https://img.shields.io/github/stars/Africode-Academy/tabpay?style=for-the-badge&color=34F6D4">
-          <img src="https://img.shields.io/github/forks/Africode-Academy/tabpay?style=for-the-badge&color=34F6D4">
+          <img src="https://img.shields.io/github/stars/CaptainBett/Tabpay_API?style=for-the-badge&color=34F6D4" alt="TabPay Stars" />
+          <img src="https://img.shields.io/github/forks/CaptainBett/Tabpay_API?style=for-the-badge&color=34F6D4" alt="TabPay Forks" />
         </div>
       </td>
-      <td width="50%">
-        <h3 align="center">Africode SMS</h3>
-        <div align="center">
+      <td style="width: 50%;">
+        <h3 style="text-align: center;">Africode SMS</h3>
+        <div style="text-align: center;">
           <a href="https://github.com/CaptainBett/Africode_SMS">
-            <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80%">
+            <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" style="width: 80%;" alt="Africode SMS GIF" />
           </a>
           <br>
-          <img src="https://img.shields.io/github/stars/CaptainBett/Africode_SMS?style=for-the-badge&color=34F6D4">
-          <img src="https://img.shields.io/github/forks/CaptainBett/Africode_SMS?style=for-the-badge&color=34F6D4">
+          <img src="https://img.shields.io/github/stars/CaptainBett/Africode_SMS?style=for-the-badge&color=34F6D4" alt="Africode SMS Stars" />
+          <img src="https://img.shields.io/github/forks/CaptainBett/Africode_SMS?style=for-the-badge&color=34F6D4" alt="Africode SMS Forks" />
+        </div>
+      </td>
+    </tr>
+     <tr>
+      <td style="width: 50%;">
+        <h3 style="text-align: center;">Weather App</h3>
+        <div style="text-align: center;">
+          <a href="https://github.com/CaptainBett/weather_app">
+            <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" style="width: 80%;" alt="TabPay GIF" />
+          </a>
+          <br>
+          <img src="https://img.shields.io/github/stars/CaptainBett/weather_app?style=for-the-badge&color=34F6D4" alt="TabPay Stars" />
+          <img src="https://img.shields.io/github/forks/CaptainBett/weather_app?style=for-the-badge&color=34F6D4" alt="TabPay Forks" />
+        </div>
+      </td>
+      <td style="width: 50%;">
+        <h3 style="text-align: center;">TaskMania</h3>
+        <div style="text-align: center;">
+          <a href="https://github.com/roparon/TaskMania">
+            <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" style="width: 80%;" alt="Africode SMS GIF" />
+          </a>
+          <br>
+          <img src="https://img.shields.io/github/stars/roparon/TaskMania?style=for-the-badge&color=34F6D4" alt="Africode SMS Stars" />
+          <img src="https://img.shields.io/github/forks/roparon/TaskMania?style=for-the-badge&color=34F6D4" alt="Africode SMS Forks" />
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- Contact Section with Animated Icons -->
-<h2 align="center">📫 Let's Connect! 📫</h2>
-<div align="center">
+<!-- Contact Section -->
+<h2 style="text-align: center;">📫 Let's Connect! 📫</h2>
+<div style="text-align: center;">
   <a href="https://www.linkedin.com/in/enockbett/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:enockbett427@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://x.com/Cpt_Bett">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
 </div>
 
-<!-- Snake Animation Contribution Graph -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/CaptainBett/CaptainBett/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%">
+<!-- Fixed Snake Animation -->
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/CaptainBett/CaptainBett/main/github-contribution-grid-snake.svg" style="width: 100%;" alt="GitHub Snake Animation" />
 </div>
