@@ -30,7 +30,7 @@ class Developer:
         return "Turning caffeine into code since 2020"
 
 me = Developer()
-
+```
 <!-- Tech Stack Section with Animated Badges -->
 <h2 align="center">⚡ Tech Stack ⚡</h2>
 <div align="center">
