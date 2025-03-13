@@ -32,8 +32,8 @@ class Developer:
 me = Developer()
 ```
 <!-- Tech Stack Section -->
-<h2 style="align: center;">⚡ Tech Stack ⚡</h2>
-<div style="align: center;">
+<h2 align="center">⚡ Tech Stack ⚡</h2>
+<div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FFD43B&labelColor=306998" alt="Python" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -43,15 +43,15 @@ me = Developer()
 </div>
 
 <!-- Skills Matrix Section -->
-<h2 style="align: center;">🚀 Skills Dashboard 🚀</h2>
-<div style="align: center;">
+<h2 align="center">🚀 Skills Dashboard 🚀</h2>
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,git,docker,postgres,html,css,bootstrap,github" alt="Skills" />
 </div>
 
 
 <!-- Contact Section -->
-<h2 style="align: center;">📫 Let's Connect! 📫</h2>
-<div style="align: center;">
+<h2 align="center">📫 Let's Connect! 📫</h2>
+<div align="center">
   <a href="https://www.linkedin.com/in/enockbett/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -64,6 +64,6 @@ me = Developer()
 </div>
 
 <!-- Fixed Snake Animation -->
-<div style="align: center;">
+<div align="center">
   <img src="https://raw.githubusercontent.com/CaptainBett/CaptainBett/main/github-contribution-grid-snake.svg" style="width: 100%;" alt="GitHub Snake Animation" />
 </div>
