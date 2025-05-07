@@ -2,8 +2,9 @@
 <!-- Rainbow Header Animation -->
 <!-- Rainbow Header Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=34F6D4&center=true&vCenter=true&width=435&lines=Hey+There+👋;I'm+Enock+Bett;Full+Stack+Developer;Python+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3600&pause=1000&color=34F6D4&center=true&vCenter=true&width=435&lines=Hey+There+👋;I'm+Enock+Bett;Full+Stack+Developer;Python+Enthusiast;Open+Source+Lover" alt="Typing Animation">
 </div>
+
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
