@@ -1,7 +1,102 @@
 <!-- Rainbow Header Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=34F6D4&center=true&vCenter=true&width=435&lines=Hey+There+👋;I'm+Enock+Bett;Full+Stack+Developer;Python+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
+  <style>
+    .typing-container {
+      font-family: 'Fira Code', monospace;
+      font-size: 30px;
+      text-align: center;
+      margin: 20px 0;
+    }
+    .typing-line {
+      display: block;
+      white-space: nowrap;
+      overflow: hidden;
+      margin: 10px auto;
+      color: #34F6D4;
+    }
+    .typing-line:nth-child(1) {
+      width: 10ch;
+      animation: typing1 2s steps(10), blink-caret 0.75s step-end 3;
+    }
+    .typing-line:nth-child(2) {
+      width: 12ch;
+      animation: typing2 2s steps(12) 2.5s forwards, blink-caret 0.75s step-end infinite 4.5s;
+      opacity: 0;
+    }
+    .typing-line:nth-child(3) {
+      width: 19ch;
+      animation: typing3 2s steps(19) 5s forwards, blink-caret 0.75s step-end infinite 7.5s;
+      opacity: 0;
+    }
+    .typing-line:nth-child(4) {
+      width: 16ch;
+      animation: typing4 2s steps(16) 7.5s forwards, blink-caret 0.75s step-end infinite 9.5s;
+      opacity: 0;
+    }
+    .typing-line:nth-child(5) {
+      width: 16ch;
+      animation: typing5 2s steps(16) 10s forwards, blink-caret 0.75s step-end infinite 12s;
+      opacity: 0;
+    }
+    @keyframes typing1 {
+      from { width: 0 }
+      to { width: 10ch }
+    }
+    @keyframes typing2 {
+      from { 
+        width: 0;
+        opacity: 1;
+      }
+      to { 
+        width: 12ch;
+        opacity: 1;
+      }
+    }
+    @keyframes typing3 {
+      from { 
+        width: 0;
+        opacity: 1;
+      }
+      to { 
+        width: 19ch;
+        opacity: 1;
+      }
+    }
+    @keyframes typing4 {
+      from { 
+        width: 0;
+        opacity: 1;
+      }
+      to { 
+        width: 16ch;
+        opacity: 1;
+      }
+    }
+    @keyframes typing5 {
+      from { 
+        width: 0;
+        opacity: 1;
+      }
+      to { 
+        width: 16ch;
+        opacity: 1;
+      }
+    }
+    @keyframes blink-caret {
+      from, to { border-right: 2px solid transparent }
+      50% { border-right: 2px solid #34F6D4 }
+    }
+  </style>
+  
+  <div class="typing-container">
+    <span class="typing-line">Hey There 👋</span>
+    <span class="typing-line">I'm Enock Bett</span>
+    <span class="typing-line">Full Stack Developer</span>
+    <span class="typing-line">Python Enthusiast</span>
+    <span class="typing-line">Open Source Lover</span>
+  </div>
 </div>
+
 
 <!-- Animated Divider -->
 <div align="center">
