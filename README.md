@@ -1,16 +1,5 @@
 
-<!-- Rainbow Header Animation -->
-<div align="center">
-  <div style="font-family: 'Fira Code', monospace; font-size: 30px; text-align: center; margin: 20px 0;">
-    <div style="display: block; white-space: nowrap; overflow: hidden; margin: 10px auto; color: #34F6D4; border-right: 2px solid #34F6D4; animation: typing 2s steps(20), blink-caret 0.75s step-end infinite; width: 20ch;">
-      Hey There 👋
-    </div>
-    <div style="display: block; white-space: nowrap; overflow: hidden; margin: 10px auto; color: #34F6D4; border-right: 2px solid #34F6D4; animation: typing 2s steps(16), blink-caret 0.75s step-end infinite; width: 16ch; animation-delay: 2s;">
-      I'm Enock Bett
-    </div>
-    <!-- Add more lines as needed -->
-  </div>
-</div>
+![Typing SVG](https://raw.githubusercontent.com/CaptainBett/CaptainBett/main/assets/typing.svg)
 
 
 <!-- Animated Divider -->
