@@ -1,8 +1,6 @@
-
-<!-- Rainbow Header Animation -->
 <!-- Rainbow Header Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3600&pause=1000&color=34F6D4&center=true&vCenter=true&width=435&lines=Hey+There+👋;I'm+Enock+Bett;Full+Stack+Developer;Python+Enthusiast;Open+Source+Lover" alt="Typing Animation">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=30FFD1&center=true&vCenter=true&width=435&lines=+++Hey+There+%F0%9F%91%8B;+I'm+Enock+Bett;++++Full+Stack+Developer;Python+Enthusiast;Open+Source+Lover" alt="Typing SVG" /></a>
 </div>
 
 <!-- Animated Divider -->
