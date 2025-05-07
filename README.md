@@ -1,6 +1,8 @@
 
-![Typing SVG](https://raw.githubusercontent.com/CaptainBett/CaptainBett/main/assets/typing.html)
-
+<!-- Rainbow Header Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3600&pause=1000&color=34F6D4&center=true&vCenter=true&width=435&lines=Hey+There+👋;I'm+Enock+Bett;Full+Stack+Developer;Python+Enthusiast;Open+Source+Lover" alt="Typing SVG" />
+</div>
 
 <!-- Animated Divider -->
 <div align="center">
