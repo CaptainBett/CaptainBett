@@ -1,5 +1,5 @@
 
-![Typing SVG](https://raw.githubusercontent.com/CaptainBett/CaptainBett/typing.svg)
+![Typing SVG](https://raw.githubusercontent.com/CaptainBett/CaptainBett/typing.html)
 
 
 <!-- Animated Divider -->
