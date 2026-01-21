@@ -20,7 +20,7 @@ class Developer:
         self.role = "Backend Developer & API Architect"
         self.passion = "Building scalable solutions"
         self.tech_stack = {
-            'languages': ['Python', 'JavaScript'],
+            'languages': ['Python'],
             'backend': ['Flask', 'FastAPI'],
             'frontend': ['HTML5', 'CSS3', 'Bootstrap'],
             'tools': ['Git', 'Docker', 'PostgreSQL']
